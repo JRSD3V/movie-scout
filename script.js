@@ -1,5 +1,5 @@
 const KEY = "e4402611";
-const BASE_URL = "http://www.omdbapi.com/";
+const BASE_URL = "https://www.omdbapi.com/";
 const formTitle = document.querySelector("#movieTitle");
 const formYear = document.querySelector("#movieYear");
 const formBtn = document.querySelector("#buttonSearch");
